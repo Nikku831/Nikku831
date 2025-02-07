@@ -15,22 +15,6 @@ I’m passionate about **AI, Machine Learning, and Software Development**, and I
 **AI/ML:** TensorFlow, Keras, Scikit-learn, XGBoost  
 **Tools & Platforms:** Git, GitHub  
 
-## 🎮 Rock-Paper-Scissors Game  
-Click on an option to make your move! The most picked move will be played against the AI every hour.  
-
-### 🤖 Pick your move:  
-[✊ Rock](https://github.com/NiharikaSharma/NiharikaSharma/issues/new?title=Move%3A%20Rock)  
-[✋ Paper](https://github.com/NiharikaSharma/NiharikaSharma/issues/new?title=Move%3A%20Paper)  
-[✌ Scissors](https://github.com/NiharikaSharma/NiharikaSharma/issues/new?title=Move%3A%20Scissors)  
-
-### 🏆 Last Match Result:  
-🧑 **Your Move:** ✊ (Rock)  
-🤖 **AI Move:** ✌ (Scissors)  
-🥇 **Winner:** **You Win! 🎉**  
-
-⏳ *Next match updates in 1 hour...*
-
-
 ---
 
 ### **📫 Let’s Connect!**  
