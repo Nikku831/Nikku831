@@ -15,33 +15,25 @@ I’m passionate about **AI, Machine Learning, and Software Development**, and I
 **AI/ML:** TensorFlow, Keras, Scikit-learn, XGBoost  
 **Tools & Platforms:** Git, GitHub  
 
-## 🎮 **Rock-Paper-Scissors Game**
+## 🎮 Rock-Paper-Scissors Game  
 Click on an option to make your move! The most picked move will be played against the AI every hour.  
 
-### **🤖 Pick your move!**
+### 🤖 Pick your move:  
 [✊ Rock](https://github.com/NiharikaSharma/NiharikaSharma/issues/new?title=Move%3A%20Rock)  
 [✋ Paper](https://github.com/NiharikaSharma/NiharikaSharma/issues/new?title=Move%3A%20Paper)  
 [✌ Scissors](https://github.com/NiharikaSharma/NiharikaSharma/issues/new?title=Move%3A%20Scissors)  
 
-### **🏆 Last Match Result:**  
+### 🏆 Last Match Result:  
 🧑 **Your Move:** ✊ (Rock)  
 🤖 **AI Move:** ✌ (Scissors)  
 🥇 **Winner:** **You Win! 🎉**  
 
 ⏳ *Next match updates in 1 hour...*
 
+
 ---
 
 ### **📫 Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/niharika-sharma-437951278)  
 
-📧 Feel free to reach out if you're into **AI/ML discussions, collaborations**, or just want to chat about cool tech. Always open to new ideas and projects! 🚀  
-
-### 📫 Let’s Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/niharika-sharma-437951278)  
-
-📧 Feel free to reach out if you're into **AI/ML discussions, collaborations**, or just want to chat about cool tech. Always open to new ideas and projects! 🚀  
-
----
-
-This keeps everything **as it is** but makes it sound more natural and more *you*. Let me know if you'd like any more tweaks!
+📧 Reach out if you're working on AI, robotics, or simulations. Always open to meaningful projects and problem-solving challenges.
