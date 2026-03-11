@@ -523,7 +523,6 @@ I care about **rigorous evaluation** — subject-wise splits in EEG, OOD testing
 ```yaml
 research_collabs:  [EEG/BCI, Network Security, Agentic AI, NLP, Remote Sensing]
 internships:       [ML/AI Engineering — Summer / Fall 2026]
-publications:      [IJCAI, AAAI, IEEE INFOCOM, NeurIPS Workshops]
 open_source:       [AI systems at the intersection of theory + real deployments]
 languages:         [English (Native), Hindi (Native), Dogri (Native)]
 ```
