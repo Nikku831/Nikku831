@@ -59,7 +59,7 @@
   &nbsp;whoami
 </h2>
 
-<img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px" />
+<img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:12px" />
 
 ```python
 #!/usr/bin/env python3
