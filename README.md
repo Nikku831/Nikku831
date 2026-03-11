@@ -456,7 +456,7 @@ RSMA-based UAN achieving **~25–30% throughput gain** over OMA. ML-driven coral
 <table>
 <tr>
 <td align="center" width="72px">
-  <img src="https://img.icons8.com/fluency/64/student-male.png" width="52"/>
+  <img src="https://img.icons8.com/fluency/64/student-female.png" width="52"/>
 </td>
 <td>
 
