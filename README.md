@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/github/followers/Nikku831?style=for-the-badge&color=7c3aed&labelColor=1c1c2e&logo=github&label=FOLLOWERS" alt="followers"/>
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-8.83%20%2F%2010-blueviolet?style=for-the-badge&labelColor=1c1c2e" alt="cgpa"/>
+  <img src="https://img.shields.io/badge/CGPA-8.95%20%2F%2010-blueviolet?style=for-the-badge&labelColor=1c1c2e" alt="cgpa"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Batch-2027-7c3aed?style=for-the-badge&labelColor=1c1c2e" alt="batch"/>
 </p>
@@ -73,10 +73,13 @@ class NiharikaSharma:
     handle     = "Nikku831"
     university = "Amrita Vishwa Vidyapeetham, Coimbatore"
     degree     = "B.Tech — CSE (Artificial Intelligence)"
-    cgpa       = "8.83 / 10"
+    cgpa       = "8.95 / 10"
     batch      = "2023 – 2027"
 
-    experience = ["GenAI Intern @ Simplify (Jul 2025)"]
+    experience = [
+    "GenAI Intern @ Simplify (Jul 2025)",
+    "AI Automation & Workflow Intern (May 2026 – Jun 2026)"
+    ]
 
     research   = [
         "DDoS Detection — Time-Series & Big Data",
@@ -100,7 +103,7 @@ me.say_hi()
 <br clear="right"/>
 
 <blockquote>
-🎓 Pre-final year <b>B.Tech AI student</b> at <i>Amrita School of AI, Coimbatore</i> (CGPA: <b>8.83/10</b>) — building across network security, EEG/BCI, multi-agent systems, NLP, and satellite remote sensing. I care about <b>rigorous evaluation</b> and systems that actually generalise beyond the benchmark.
+🎓 Pre-final year <b>B.Tech AI student</b> at <i>Amrita School of AI, Coimbatore</i> (CGPA: <b>8.95/10</b>) — building across network security, EEG/BCI, multi-agent systems, NLP, and satellite remote sensing. I care about <b>rigorous evaluation</b> and systems that actually generalise beyond the benchmark.
 </blockquote>
 
 <br/>
@@ -109,7 +112,7 @@ me.say_hi()
 
 | 📚 Degree | 🏫 University | 🎯 CGPA | 📅 Batch |
 |:---:|:---:|:---:|:---:|
-| B.Tech CSE (AI) | Amrita Vishwa Vidyapeetham | 8.83 / 10 | 2027 |
+| B.Tech CSE (AI) | Amrita Vishwa Vidyapeetham | 8.95 / 10 | 2027 |
 
 </div>
 
@@ -119,8 +122,6 @@ me.say_hi()
 
 ## 💼 &nbsp;Experience
 
-<div align="center">
-
 <table>
 <tr>
 <td align="center" width="72px">
@@ -128,21 +129,30 @@ me.say_hi()
 </td>
 <td>
 
-**Simplify** &nbsp;·&nbsp; *Remote*
+**AI Automation Intern** · *Remote*
 
-🤖 **GenAI Intern** &nbsp;|&nbsp; Jul 2025
+🤖 **AI Automation & Workflow Intern** | May 2026 – Jun 2026
+
+Built AI-powered automation workflows, chatbots, and operational process automation.
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="72px">
+  <img src="https://img.icons8.com/fluency/64/artificial-intelligence.png" width="52"/>
+</td>
+<td>
+
+**Simplify** · *Remote*
+
+🤖 **GenAI Intern** | Jul 2025
 
 Built Generative AI workflows and LLM-powered pipelines in a fast-paced product environment.
 
 </td>
 </tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+</table><!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -462,7 +472,7 @@ RSMA-based UAN achieving **~25–30% throughput gain** over OMA. ML-driven coral
 
 **Amrita Vishwa Vidyapeetham** &nbsp;·&nbsp; *Coimbatore, Tamil Nadu*
 
-📘 B.Tech — **CSE (Artificial Intelligence)** &nbsp;|&nbsp; 2023–2027 &nbsp;·&nbsp; **CGPA: 8.83 / 10**
+📘 B.Tech — **CSE (Artificial Intelligence)** &nbsp;|&nbsp; 2023–2027 &nbsp;·&nbsp; **CGPA: 8.95 / 10**
 
 </td>
 </tr>
